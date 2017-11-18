@@ -1,0 +1,2 @@
+# BookManager
+使用java纯代码写的一个简单的图书管理系统，用于练习Swing控件和JDBC的使用
